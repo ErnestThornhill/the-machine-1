@@ -1,6 +1,6 @@
 Welcome to The Machine Project
 ===================
-#FORKED VERSION OF THE MACHINE PROJECT SINCE PRODUCTION HAS ENDED. THIS WAS CREATED IN CASE THAT THE ORIGINAL WAS LOST.
+#FORKED VERSION OF THE MACHINE PROJECT SINCE PRODUCTION HAS ENDED. THIS WAS CREATED IN CASE THAT THE ORIGINAL WAS LOST. ORIGINAL REPO [HERE](https://github.com/the-machine-project/the-machine)
 
 [![Join the chat at https://gitter.im/the-machine-project/the-machine](https://badges.gitter.im/the-machine-project/the-machine.svg)](https://gitter.im/the-machine-project/the-machine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ***Welcome to the machine...***
